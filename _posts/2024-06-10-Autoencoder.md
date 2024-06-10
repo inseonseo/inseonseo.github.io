@@ -277,7 +277,7 @@ plt.show()
 
 
     
-![png](output_11_0.png)
+![output_11_0](https://github.com/inseonseo/inseonseo.github.io/assets/50574738/3e8e7214-23b8-493c-b7a9-7d3845be818c)
     
 
 
@@ -614,13 +614,12 @@ plot_examples(x_test_sample, decoded_stocks)
 
 
     
-![png](output_20_1.png)
-    
+<!-- ![png](output_20_1.png) -->
 
 
 
     
-![png](output_20_2.png)
+![output_20_2](https://github.com/inseonseo/inseonseo.github.io/assets/50574738/6385c98b-c876-41d6-8981-c842fe2a4d94)
     
 
 
@@ -894,13 +893,13 @@ plot_examples(x_test_sample, decoded_stocks)
 
 
     
-![png](output_23_1.png)
+![output_23_1](https://github.com/inseonseo/inseonseo.github.io/assets/50574738/efe8c053-44a3-49cc-9420-a92a1205fdeb)
     
 
 
 
     
-![png](output_23_2.png)
+![output_23_2](https://github.com/inseonseo/inseonseo.github.io/assets/50574738/91a2ddf2-0c1d-4754-9988-6b1275e87d49)
     
 
 
@@ -1359,13 +1358,13 @@ plot_examples(x_test, decoded_stocks)
 
 
     
-![png](output_28_1.png)
+![output_28_1](https://github.com/inseonseo/inseonseo.github.io/assets/50574738/d3d7d4b3-ba5b-470c-b17d-7cf5d9468eca)
     
 
 
 
     
-![png](output_28_2.png)
+![output_28_2](https://github.com/inseonseo/inseonseo.github.io/assets/50574738/9fb8263b-677f-4eef-a026-ff16f01d8fee)
     
 
 
@@ -1610,13 +1609,13 @@ plot_examples(x_test, decoded_stocks)
 
 
     
-![png](output_29_1.png)
+![output_29_1](https://github.com/inseonseo/inseonseo.github.io/assets/50574738/59edee71-fd9a-4a1c-af36-3b47d4858f9f)
     
 
 
 
     
-![png](output_29_2.png)
+![output_29_2](https://github.com/inseonseo/inseonseo.github.io/assets/50574738/d10cfe26-2cfb-466e-ad57-e538436405aa)
     
 
 
