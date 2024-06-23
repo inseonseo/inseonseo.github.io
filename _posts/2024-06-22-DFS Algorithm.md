@@ -1,3 +1,11 @@
+---
+title: DFS Algorithm practice
+date: 2024-06-22
+categories: [Algorithm, DFS]
+tags: [모글모글, 아이펠, 개발자 글쓰기, dfs]     # TAG names should always be lowercase
+---
+
+
 ## DFS algorithm
 ### Depth-First Search
 
