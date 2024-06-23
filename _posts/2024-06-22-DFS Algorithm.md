@@ -6,7 +6,7 @@
 - 주로 재귀함수 또는 Stack 으로 구현
     ex) 미로찾기 : 최대한 한 방향으로 갈 수 있을 때까지 가다가 더 이상 갈 수 없게 되면 다시 가장 가까운 갈림길로 돌아와서 그 갈림길부터 다시 다른 방향으로 탐색을 진행하는 것
 
-![image-2.png](attachment:image-2.png)
+![image](https://github.com/inseonseo/inseonseo.github.io/assets/50574738/4133548a-f46e-4e15-bb53-27ae2e6c5f0b)
 
 ### 시간 복잡도와 장단점
 - 인접 행렬에서 시간 복잡도: O(V^2)
