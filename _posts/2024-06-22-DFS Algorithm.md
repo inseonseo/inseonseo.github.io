@@ -1,3 +1,11 @@
+---
+title: DFS Algorithm practice
+date: 2024-06-22
+categories: [Algorithm, DFS]
+tags: [모글모글, 아이펠, 개발자 글쓰기, dfs]     # TAG names should always be lowercase
+---
+
+
 ## DFS algorithm
 ### Depth-First Search
 
@@ -40,9 +48,8 @@
 
 ## Softeer. 문제(Lv.3)
 
-![Screenshot%202024-06-23%20at%201.48.20%E2%80%AFPM.png](attachment:Screenshot%202024-06-23%20at%201.48.20%E2%80%AFPM.png)
-
-![Screenshot%202024-06-23%20at%201.56.40%E2%80%AFPM.png](attachment:Screenshot%202024-06-23%20at%201.56.40%E2%80%AFPM.png)
+![image](https://github.com/inseonseo/inseonseo.github.io/assets/50574738/86369d68-b7e0-4c55-8ee3-c4c233c766d6)
+![image](https://github.com/inseonseo/inseonseo.github.io/assets/50574738/9fd40912-ea77-4066-9f1c-427145997fda)
 
 
 ```python
