@@ -1,3 +1,10 @@
+---
+title: Data Cleaning _ Used Car Price
+date: 2024-06-23
+categories: [Data Preprocessing, Data Cleaning]
+tags: [개발자 글쓰기, 모글모글, 아이펠, data preprocessing]     # TAG names should always be lowercase
+---
+
 ```python
 import pandas as pd
 import numpy as np
@@ -4987,8 +4994,7 @@ sns.heatmap(df_corr, annot=True, vmax=1, vmin=-1, cmap="coolwarm")
 
 
     
-![png](output_88_1.png)
-    
+![output_88_1](https://github.com/inseonseo/inseonseo.github.io/assets/50574738/d6fb6a3b-2390-4cff-8b0e-39083bb8133d)    
 
 
 - 원핫인코딩을 전부 정수형 인코딩으로 변환 후 다시 실행
@@ -5252,7 +5258,7 @@ sns.barplot(x=model.feature_importances_, y=feature_names)
 
 
     
-![png](output_104_1.png)
+![output_104_1](https://github.com/inseonseo/inseonseo.github.io/assets/50574738/f5cf9cef-6d05-422c-a4f7-b646786a1efc)
     
 
 
