@@ -1,8 +1,8 @@
 ---
-title: Customer Segmentation_(1)EDA
+title: Customer Segmentation_(1)Data Preprocessing
 date: 2024-12-22
 categories: [Data Analysis, Customer Segmentation]
-tags: [customer segmentation]     
+tags: [customer segmentation, data preprocessing]     
 ---
 
 ```python
